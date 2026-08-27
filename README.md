@@ -1,16 +1,38 @@
-## Hi there 👋
+## Olá! 👋🏾 Sou Janaina Chiorato
 
-<!--
-**Janaina-Chiorato/Janaina-Chiorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Atualmente estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* C 
+* Java
+* Git e GitHub
+* Banco de Dados
+
+🚀 Estou construindo meus conhecimentos em programação e desenvolvimento de sistemas, criando projetos acadêmicos e pessoais.
+
+### 📚 Atualmente aprendendo
+
+* Lógica de programação
+* Programação Orientada a Objetos
+* Git e GitHub
+* Banco de Dados
+* Desenvolvimento de aplicações
+
+### 🚀 Projetos
+
+🔹 **Beleza Já** — projeto de aplicativo voltado para serviços de beleza.
+
+🔹 **Projetos acadêmicos** — exercícios e projetos desenvolvidos durante minha graduação.
+
+### 🎯 Objetivo
+
+Construir uma base sólida em programação e desenvolvimento de software, criando projetos que possam fazer parte do meu portfólio profissional.
+
+---
+
+📌 *Em constante aprendizado e evolução.*
+
+
+
